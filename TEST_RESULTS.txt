@@ -1,0 +1,9 @@
+Validation completed 2026-10-17 UTC
+PASS: patched archive CRC and all 95 entries preserved.
+PASS: only DECORATE differs from input combat package.
+PASS: SS drop points to ECWolfMachineGun, using MachineGunAmmo and weapon slot 3.
+PASS: 1005 existing HD PNG assets decoded at 512x512.
+PASS: 1920x1080 and fullscreen options present in supplied executable.
+NOT RUN: ECWolf engine startup, enemy death/pickup, visual inspection or FPS test.
+BLOCKERS: no Wine/Linux ECWolf runtime and no Wolfenstein WL6 game data in this workspace.
+Graphics change: launcher uses existing HD assets and a 1920x1080 render target; no new artwork.
